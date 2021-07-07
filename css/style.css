@@ -9,12 +9,38 @@ body {
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
 }
+h1 {
+	color: #acb6b3;
+	font-size: 80px;
+	margin-top: 0px;
+}
 
+h2 {
+	color:#acb6b3;
+	font-size: 30px;
+}
+img {
+	border: 5px solid #acb6b3;
+}
+p.copyright{
+	font-size: 14px;
+	text-align: right;
+	padding-top: 10px;
+
+}
+p{
+	color: #434343;
+}
+
+a {
+	color:#1B71AE;
+	text-decoration-line: none;
+}
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	padding: 0 45px 20px;
+	padding: 1px 40px 45px 40px;
 }
 
 /* Write all remaining styles here */
